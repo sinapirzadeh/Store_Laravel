@@ -1,0 +1,32 @@
+.textc {
+    text-align-last: center;
+}
+
+.color_t {
+    color: rgb(63, 63, 63);
+}
+
+.bg_body_co {
+    background-color: #f2f2f2;
+}
+
+.td_to_center {
+    vertical-align: middle !important;
+    text-align: center !important;
+    
+}
+
+.img_redues {
+    width: 200px;
+    margin: auto;
+    border-radius: 15px;
+    padding: 0 !important;
+}
+
+.form_delete_edit {
+    display: inline !important;
+}
+
+.bg-wh {
+    background-color: white;
+}
